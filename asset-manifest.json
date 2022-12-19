@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2937d49f.css",
-    "main.js": "/static/js/main.05e310c5.js",
+    "main.js": "/static/js/main.54c06a93.js",
     "static/js/787.905c7547.chunk.js": "/static/js/787.905c7547.chunk.js",
     "static/media/Himalay.png": "/static/media/Himalay.99f108cb220a0ac1f355.png",
     "static/media/jiomart.png": "/static/media/jiomart.b53256a77ef0c25ecf36.png",
@@ -19,11 +19,11 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.2937d49f.css.map": "/static/css/main.2937d49f.css.map",
-    "main.05e310c5.js.map": "/static/js/main.05e310c5.js.map",
+    "main.54c06a93.js.map": "/static/js/main.54c06a93.js.map",
     "787.905c7547.chunk.js.map": "/static/js/787.905c7547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2937d49f.css",
-    "static/js/main.05e310c5.js"
+    "static/js/main.54c06a93.js"
   ]
 }
