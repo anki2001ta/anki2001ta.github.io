@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.875c280f.css",
-    "main.js": "/static/js/main.ba06a8d5.js",
+    "main.css": "/static/css/main.e8f7a2c1.css",
+    "main.js": "/static/js/main.cba788c0.js",
     "static/js/787.905c7547.chunk.js": "/static/js/787.905c7547.chunk.js",
     "static/media/Himalay.png": "/static/media/Himalay.99f108cb220a0ac1f355.png",
     "static/media/jiomart.png": "/static/media/jiomart.b53256a77ef0c25ecf36.png",
     "static/media/PharmEasy.png": "/static/media/PharmEasy.fea3d04abbdedf947ff3.png",
     "static/media/meesho.png": "/static/media/meesho.60362759cb3432b125ed.png",
-    "static/media/Ankita_Deb_Resume.pdf": "/static/media/Ankita_Deb_Resume.06e3277a8060b32141a5.pdf",
+    "static/media/fp05_042_Ankita_Deb_Resume.pdf": "/static/media/fp05_042_Ankita_Deb_Resume.06e3277a8060b32141a5.pdf",
     "static/media/shirt.jpg": "/static/media/shirt.cede11576254861ee031.jpg",
     "static/media/visual.png": "/static/media/visual.332d9b7dc873badbbcba.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -27,12 +27,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.875c280f.css.map": "/static/css/main.875c280f.css.map",
-    "main.ba06a8d5.js.map": "/static/js/main.ba06a8d5.js.map",
+    "main.e8f7a2c1.css.map": "/static/css/main.e8f7a2c1.css.map",
+    "main.cba788c0.js.map": "/static/js/main.cba788c0.js.map",
     "787.905c7547.chunk.js.map": "/static/js/787.905c7547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.875c280f.css",
-    "static/js/main.ba06a8d5.js"
+    "static/css/main.e8f7a2c1.css",
+    "static/js/main.cba788c0.js"
   ]
 }
